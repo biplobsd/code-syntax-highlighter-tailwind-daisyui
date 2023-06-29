@@ -1,4 +1,10 @@
-# Create T3 App
+# Syntax Highlight Code in NextJS TailwindCSS DaisyUI
+
+![preview-code-syntax-highlighter](public/preview-code-syntax-highlighter.gif)
+
+Blog post: [https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md](https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md)
+
+## Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
