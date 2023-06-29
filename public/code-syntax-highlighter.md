@@ -6,7 +6,11 @@ This markdown is for testing the syntax highlighter code. Below are examples of 
 import React from "react";
 
 const HelloWorld = () => {
-  return <h1>Hello, World!</h1>;
+  return (
+    <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
+      <h1 style={{ fontSize: "3rem" }}>Hello, World!</h1>
+    </div>
+  );
 };
 
 export default HelloWorld;
@@ -53,4 +57,4 @@ echo "Hello, World!"
 print("Hello, World!")
 ```
 
-Read more on https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md
+Read more on [https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md](https://biplobsd.me/blogs/view/syntax-highlight-code-in-NextJS-tailwindcss-daisyui.md)
